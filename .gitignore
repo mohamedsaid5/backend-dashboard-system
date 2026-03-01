@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Database (keep demo_dashboard.db for demo purposes, but ignore in production)
+# *.db
+# *.sqlite
+# *.sqlite3
+demo_dashboard.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.build/
+*.onefile-build/
+*.spec
+*.exe
+
+# Logs
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Settings (if contains sensitive data)
+# db_settings.json

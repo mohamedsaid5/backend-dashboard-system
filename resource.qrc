@@ -1,0 +1,24 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+        
+        <file>ico/images-removebg-preview.png</file>
+        <file>ico/remove-user.png</file>
+        <file>ico/user_edit.png</file>
+        <file>ico/search-user.png</file>
+        <file>ico/reset.png</file>
+        <file>ico/refresh.png</file>
+        <file>ico/logout.png</file>
+        <file>ico/login3.png</file>
+        <file>ico/iq.ico</file>
+        <file>ico/qx.ico</file>
+        <file>ico/po.ico</file>
+        <file>ico/dashboard-5-48.ico</file>
+        
+        <file>ico/1-removebg-preview.png</file>
+        <file>ico/2-removebg-preview.png</file>
+        
+        <file>ico/3-removebg-preview.png</file>
+        <file>ico/1-removebg-preview (1).png</file>
+
+</qresource>
+</RCC>
