@@ -33,27 +33,35 @@ A professional PyQt5-based backend management system for user accounts and subsc
 
 ## 📸 Screenshots
 
-> **Note:** Add your project screenshots to the `screenshots/` directory. Suggested screenshots:
-> - `login.png` - Login screen (first image shown)
-> - `dashboard.png` - User Subscriptions tab (main default view after login)
-> - `user-management.png` - Account Migrations tab (shows another management interface)
-> - `settings.png` - Settings panel
-
 ### Login Screen
+
 ![Login Screen](screenshots/login.png)
-*Secure login interface with user authentication*
 
-### Main Dashboard
+**Description:** Secure login interface with user authentication. Features username and password fields with a "Save Password" option. The login screen provides access control to the dashboard application.
+
+---
+
+### Main Dashboard - User Subscriptions
+
 ![Dashboard](screenshots/dashboard.png)
-*Main dashboard showing User Subscriptions management interface*
 
-### User Management
+**Description:** Main dashboard showing the User Subscriptions management interface. This is the default view after login, displaying a comprehensive data table with user subscription information. Features include search functionality, CRUD operation buttons (Add, Update, Delete), and a clean, organized layout for managing user data.
+
+---
+
+### User Management - Account Migrations
+
 ![User Management](screenshots/user-management.png)
-*Account Migrations management interface with full CRUD operations*
+
+**Description:** Account Migrations management interface demonstrating another management module. Shows full CRUD operations with search filters, action buttons, and a detailed data table displaying account migration records with source/target accounts, periods, dates, and balances.
+
+---
 
 ### Settings Panel
+
 ![Settings](screenshots/settings.png)
-*Application settings including theme selection and bulk operations*
+
+**Description:** Application settings panel with theme selection (Light/Dark mode), bulk operations for adding extra days to subscriptions, and functionality to delete inactive users. Provides centralized configuration and administrative tools for managing the application.
 
 ## 🚀 Installation
 
