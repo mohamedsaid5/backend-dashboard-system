@@ -15,6 +15,7 @@ A professional PyQt5-based backend management system for user accounts and subsc
 - [Project Structure](#project-structure)
 - [Database Schema](#database-schema)
 - [Architecture](#architecture)
+- [Notes](#notes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -65,8 +66,8 @@ A professional PyQt5-based backend management system for user accounts and subsc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dashboard-application.git
-   cd dashboard-application
+   git clone https://github.com/mohamedsaid5/backend-dashboard-system.git
+   cd backend-dashboard-system
    ```
 
 2. **Install dependencies**
@@ -180,23 +181,7 @@ All data tables include common columns:
 
 ### Database Migration
 
-Originally designed for **remote MySQL**, the application has been refactored to use **SQLite** for easy setup and demonstration.
-
-## 🔧 Development
-
-### Running Tests
-
-```bash
-python -m pytest tests/
-```
-
-### Code Style
-
-The project follows PEP 8 style guidelines. Use a linter to check code quality:
-
-```bash
-pylint main.py
-```
+Originally designed for **remote MySQL**, the application has been refactored to use **SQLite** for easy setup and demonstration. The MySQL connection code is preserved in comments throughout the codebase.
 
 ## 📝 Notes
 
@@ -222,10 +207,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Mohamed Said**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@mohamedsaid5](https://github.com/mohamedsaid5)
 
 ## 🙏 Acknowledgments
 
